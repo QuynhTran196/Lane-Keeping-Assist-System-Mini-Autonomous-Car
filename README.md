@@ -21,6 +21,3 @@ STEP 4 : Run the source code and watch the result
 + Connect to your computer and select board, here you'll chose Arduino Uno and click "upload" for loading into the microcontroller
 + Download video "RoadCar.mp4" and put in the same folder as the file "Detect_Line.py"
 + Open file "Detect_Line.py" run and see the result
-
-# Simulation Video Link: https://www.youtube.com/watch?v=030r9M3Ykb4&gidzl=wgDh0PHuaI7gkcy0as6J9kguQmcBDSSe_Emn3eOqcYtuwp5OWJ2RAllgP5dNCfjv_Byn3J5FxCyNb7YJ9m
-Quynh modify
